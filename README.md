@@ -1,9 +1,9 @@
 
 Breve descrição do grupo
 
-* Turno: [LM]XX
-* Grupo: YY
+* Turno: M07
+* Grupo: 06
 * Alunos:
-    - Aluno1 upZZZZZ 
-    - Aluno2 upZZZZZ
-    - Aluno3 upZZZZZ
+    - Clara Martins up201806528
+    - Diogo Rodrigues up201806429
+    - Gonçalo Pascoal up201806332
