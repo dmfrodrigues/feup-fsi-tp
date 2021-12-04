@@ -225,6 +225,7 @@ server-10.9.0.5 | The target variable's value (before): 0x11223344
 server-10.9.0.5 | h11223344    1000 8049db5 80e5320 80e61c0ffffd420ffffd348 [...]
 server-10.9.0.5 | The target variable's value (after):  0x00005000
 server-10.9.0.5 | (^_^)(^_^)  Returned properly (^_^)(^_^)
+```
 
 ## CTF - Task 1
 
